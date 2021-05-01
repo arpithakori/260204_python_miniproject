@@ -47,7 +47,9 @@ Make sure that pytest is installed and in the pycharm IDE :
 ## Implementation of the Project
 
 1) When the code is run in the pycharm IDE, the gui is displayed:
-2) User can select among the countries for exchange rates:
-3) User can enter the values of the rates they want to convert:
-4) A pop arises if we do not enter any values in the boxes specified:
-5) To exit the application, user can click the exit button
+https://github.com/arpithakori/260204_python_miniproject/blob/master/Run.png
+https://github.com/arpithakori/260204_python_miniproject/blob/master/Run.png
+3) User can select among the countries for exchange rates:
+4) User can enter the values of the rates they want to convert:
+5) A pop arises if we do not enter any values in the boxes specified:
+6) To exit the application, user can click the exit button
