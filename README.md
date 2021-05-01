@@ -19,6 +19,7 @@ Its very important to note that the exchange rates are changing almost every min
 To download the latest version of python visit - https://www.python.org/downloads/
 
 2) Downloading required packages
+
 The packages used are:
 * pip - 21.1.1
 * future - 0.18.2
