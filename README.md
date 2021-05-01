@@ -74,8 +74,8 @@ Make sure that pytest is installed and in the pycharm IDE :
 
 ![enter](https://github.com/arpithakori/260204_python_miniproject/blob/master/enter.png)
 
-5) A pop arises if we do not enter any values in the boxes specified:
+5) A pop up arises if we do not enter any values in the boxes specified:
 
 ![pop](https://github.com/arpithakori/260204_python_miniproject/blob/master/pop.png)
 
-6) To exit the application, user can click the exit button
+6) To exit the application, user can click on the exit button
