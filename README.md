@@ -9,7 +9,8 @@ Its very important to note that the exchange rates are changing almost every min
 User is able to select the currency they want to convert from.
 User is able to select the currency they want to convert to.
 When the convert button is clicked the conversion of the currency is done.
-User is able to get the detials of the exchange rates on that particular day.(example - https://github.com/arpithakori/260204_python_miniproject/blob/master/2021-04-30.txt)
+User is able to get the detials of the exchange rates on that particular day.
+(example of text file - https://github.com/arpithakori/260204_python_miniproject/blob/master/2021-04-30.txt)
 
 ## Pre-requisites to run the files
 
@@ -24,6 +25,21 @@ The packages used are:
 * requests - 2.25.1
 * regex - 2021.44
 * pytest - 6.2.3
+The packages which are pre-installed in the pycharm IDE
+* atomicwrites - 1.4.0
+* attrs - 20.3.0
+* certifi - 2020.12.5
+* chardet - 4.0.0
+* colorama - 0.4.4
+* idna - 2.10
+* iniconfig - 1.1.1	
+* packaging -	20.9
+* pluggy - 0.13.1
+* py - 1.10.0	
+* pyparsing - 2.4.7	
+* setuptools - 56.0.0
+* toml - 0.10.2	
+* urllib3 - 1.26.4
 
 These packages can be downloaded easily in pycharm as : 
 * Settings => Project:your_project_name => Project Interpreter => + sign => Search for the packages you want to install
