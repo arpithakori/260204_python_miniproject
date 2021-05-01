@@ -47,13 +47,23 @@ Make sure that pytest is installed and in the pycharm IDE :
 ## Implementation of the Project
 
 1) When the code is run in the pycharm IDE, the gui is displayed:
+
 ![run](https://github.com/arpithakori/260204_python_miniproject/blob/master/Run.png)
+
 2) The clear view of GUI:
+
 ![gui](https://github.com/arpithakori/260204_python_miniproject/blob/master/GUI%20Initial.png)
+
 3) User can select among the countries for exchange rates:
+
 ![select](https://github.com/arpithakori/260204_python_miniproject/blob/master/select.png)
+
 4) User can enter the values of the rates they want to convert:
+
 ![enter](https://github.com/arpithakori/260204_python_miniproject/blob/master/enter.png)
+
 5) A pop arises if we do not enter any values in the boxes specified:
+
 ![pop](https://github.com/arpithakori/260204_python_miniproject/blob/master/pop.png)
+
 6) To exit the application, user can click the exit button
