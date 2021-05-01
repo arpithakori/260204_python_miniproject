@@ -27,22 +27,6 @@ The packages used are:
 * regex - 2021.44
 * pytest - 6.2.3
 
-=> The packages which are pre-installed in the pycharm IDE
-* atomicwrites - 1.4.0
-* attrs - 20.3.0
-* certifi - 2020.12.5
-* chardet - 4.0.0
-* colorama - 0.4.4
-* idna - 2.10
-* iniconfig - 1.1.1	
-* packaging -	20.9
-* pluggy - 0.13.1
-* py - 1.10.0	
-* pyparsing - 2.4.7	
-* setuptools - 56.0.0
-* toml - 0.10.2	
-* urllib3 - 1.26.4
-
 These packages can be downloaded easily in pycharm as : 
 * Settings => Project:your_project_name => Project Interpreter => + sign => Search for the packages you want to install
 
@@ -60,7 +44,9 @@ Make sure that pytest is installed and in the pycharm IDE :
 * Navigate to - Settings => Tools => Pycharm Integrated Tools => Default test runner => select pytest
 
 1) The files - files_test.py and dict_test.py are for pytest
-2) Run the files separately 
+2) file_pytest.py is used to test if the files exist or not
+3) dict_test.py is used to test if the dictionary is empty
+4) Run the files separately in the pycharm IDE, by right clicking on the test function and run or enter command pytest file_test.py and pytest dict_test.py
 
 ## Implementation of the Project
 
