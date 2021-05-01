@@ -76,7 +76,7 @@ class Gui(tkt.Tk):
         self.intro_label_of_gui = Label(self, text='MY CURRENCY CONVERTER', fg='green', relief=tkt.SUNKEN,
                                         borderwidth=2)
         self.intro_label_of_gui.config(font=('Times', 16, 'bold'))
-        self.line_1 = Label(self, text='Select the country you want to convert your currency to', relief=tkt.FLAT,
+        self.line_1 = Label(self, text='Select the country you want to convert your currency from', relief=tkt.FLAT,
                             borderwidth=0)
         self.lines_2 = Label(self, text='Please enter the amount you want to convert', relief=tkt.FLAT, borderwidth=0)
         self.lines_3 = Label(self, text='The converted amount ', relief=tkt.FLAT, borderwidth=0)
