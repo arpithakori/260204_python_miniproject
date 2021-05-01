@@ -29,7 +29,7 @@ The packages used are:
 * pytest - 6.2.3
 
 These packages can be downloaded easily in pycharm as : 
-* Settings => Project:your_project_name => Project Interpreter => + sign => Search for the packages you want to install
+* Settings => Project:your_project_name => Project Interpreter => + sign => Search for the packages you want to install => click on Install
 
 ## How to run the project in pycharm IDE
 
@@ -51,9 +51,10 @@ Make sure that pytest is installed and in the pycharm IDE :
 1) The files - files_test.py and dict_test.py are for pytest
 2) file_pytest.py is used to test if the files exist or not
 3) dict_test.py is used to test if the dictionary is empty
-4) Run the files separately in the pycharm IDE, by right clicking on the test function and run OR 
-
-=> Enter command pytest file_test.py and pytest dict_test.py
+4) Run the files separately in the pycharm IDE, by right clicking on the test function and run OR
+5) Enter commands:
+* pytest file_test.py -v
+* pytest dict_test.py -v
 
 ## Implementation of the Project
 
