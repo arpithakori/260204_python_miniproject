@@ -35,7 +35,11 @@ These packages can be downloaded easily in pycharm as :
 1) Download the zip folder of the code
 2) Install all the pre-requisites
 3) The main file is - currency_converter.py - run this in the pycharm IDE
-Press the run button to run the file or type python currency_converter.py in the pycharm command prompt
+
+=> Press the run button to run the file OR 
+
+=> Type python currency_converter.py in the pycharm command prompt
+
 4) The GUI will be displayed to enter the values
 
 ## Pytest
@@ -46,7 +50,9 @@ Make sure that pytest is installed and in the pycharm IDE :
 1) The files - files_test.py and dict_test.py are for pytest
 2) file_pytest.py is used to test if the files exist or not
 3) dict_test.py is used to test if the dictionary is empty
-4) Run the files separately in the pycharm IDE, by right clicking on the test function and run or enter command pytest file_test.py and pytest dict_test.py
+4) Run the files separately in the pycharm IDE, by right clicking on the test function and run or 
+
+Enter command pytest file_test.py and pytest dict_test.py
 
 ## Implementation of the Project
 
