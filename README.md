@@ -50,9 +50,9 @@ Make sure that pytest is installed and in the pycharm IDE :
 1) The files - files_test.py and dict_test.py are for pytest
 2) file_pytest.py is used to test if the files exist or not
 3) dict_test.py is used to test if the dictionary is empty
-4) Run the files separately in the pycharm IDE, by right clicking on the test function and run or 
+4) Run the files separately in the pycharm IDE, by right clicking on the test function and run OR 
 
-Enter command pytest file_test.py and pytest dict_test.py
+=> Enter command pytest file_test.py and pytest dict_test.py
 
 ## Implementation of the Project
 
