@@ -60,6 +60,7 @@ Make the other required settings for pytest
 
 ## Screenshot of pytest
 
+![pytest](https://github.com/arpithakori/260204_python_miniproject/blob/master/pytest.png)
 
 ## Implementation of the Project
 
