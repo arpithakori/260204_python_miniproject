@@ -48,6 +48,8 @@ These packages can be downloaded easily in pycharm as :
 Make sure that pytest is installed and in the pycharm IDE :
 * Navigate to - Settings => Tools => Pycharm Integrated Tools => Default test runner => select pytest
 
+Make the other required settings for pytest
+
 1) The files - files_test.py and dict_test.py are for pytest
 2) file_pytest.py is used to test if the files exist or not
 3) dict_test.py is used to test if the dictionary is empty
@@ -55,6 +57,9 @@ Make sure that pytest is installed and in the pycharm IDE :
 5) Enter commands:
 * pytest file_test.py -v
 * pytest dict_test.py -v
+
+## Screenshot of pytest
+
 
 ## Implementation of the Project
 
