@@ -6,5 +6,5 @@ def test_dict():
     try:
         output = currency_converter.rates_exists(currency_converter.dictionary_check)
         assert output.__eq__(True)
-    except KeyError:
+    except:
         print("Dictionary is empty")
