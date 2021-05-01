@@ -60,11 +60,11 @@ Make sure that pytest is installed and in the pycharm IDE :
 
 1) When the code is run in the pycharm IDE, the gui is displayed:
 
-![run](https://github.com/arpithakori/260204_python_miniproject/blob/master/Run.png)
+![run](https://github.com/arpithakori/260204_python_miniproject/blob/master/run.png)
 
 2) The clear view of GUI:
 
-![gui](https://github.com/arpithakori/260204_python_miniproject/blob/master/GUI%20Initial.png)
+![gui](https://github.com/arpithakori/260204_python_miniproject/blob/master/view.png)
 
 3) User can select among the countries for exchange rates:
 
