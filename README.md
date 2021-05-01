@@ -18,12 +18,12 @@ To download the latest version of python visit - https://www.python.org/download
 
 2) Downloading required packages
 The packages used are:
-a) pip - 21.1.1
-b) future - 0.18.2
-c) EasyTkinter - 1.1.0
-d) requests - 2.25.1
-e) regex - 2021.44
-f) pytest - 6.2.3
+* pip - 21.1.1
+* future - 0.18.2
+* EasyTkinter - 1.1.0
+* requests - 2.25.1
+* regex - 2021.44
+* pytest - 6.2.3
 
 These packages can be downloaded easily in pycharm as : Settings => Project:your_project_name => Project Interpreter => + sign => Search for the packages you want to install
 
