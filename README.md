@@ -9,7 +9,7 @@ Its very important to note that the exchange rates are changing almost every min
 User is able to select the currency they want to convert from.
 User is able to select the currency they want to convert to.
 When the convert button is clicked the conversion of the currency is done.
-User is able to get the detials of the exchange rates on that particular day.
+User is able to get the detials of the exchange rates on that particular day.(example - https://github.com/arpithakori/260204_python_miniproject/blob/master/2021-04-30.txt)
 
 ## Pre-requisites to run the files
 
@@ -43,3 +43,11 @@ Make sure that pytest is installed and in the pycharm IDE :
 
 1) The files - files_test.py and dict_test.py are for pytest
 2) Run the files separately 
+
+## Implementation of the Project
+
+1) When the code is run in the pycharm IDE, the gui is displayed:
+2) User can select among the countries for exchange rates:
+3) User can enter the values of the rates they want to convert:
+4) A pop arises if we do not enter any values in the boxes specified:
+5) To exit the application, user can click the exit button
