@@ -25,7 +25,7 @@ The packages used are:
 * requests - 2.25.1
 * regex - 2021.44
 * pytest - 6.2.3
-The packages which are pre-installed in the pycharm IDE
+=> The packages which are pre-installed in the pycharm IDE
 * atomicwrites - 1.4.0
 * attrs - 20.3.0
 * certifi - 2020.12.5
