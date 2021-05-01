@@ -6,10 +6,10 @@ Its very important to note that the exchange rates are changing almost every min
 
 ## Functions of the Currency converter
 
-User is able to select the currency they want to convert from.
-User is able to select the currency they want to convert to.
-When the convert button is clicked the conversion of the currency is done.
-User is able to get the detials of the exchange rates on that particular day.
+* User is able to select the currency they want to convert from.
+* User is able to select the currency they want to convert to.
+* When the convert button is clicked the conversion of the currency is done.
+* User is able to get the detials of the exchange rates on that particular day.
 
 (example of text file - https://github.com/arpithakori/260204_python_miniproject/blob/master/2021-04-30.txt)
 
