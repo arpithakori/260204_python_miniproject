@@ -25,7 +25,8 @@ The packages used are:
 * regex - 2021.44
 * pytest - 6.2.3
 
-These packages can be downloaded easily in pycharm as : Settings => Project:your_project_name => Project Interpreter => + sign => Search for the packages you want to install
+These packages can be downloaded easily in pycharm as : 
+* Settings => Project:your_project_name => Project Interpreter => + sign => Search for the packages you want to install
 
 ## How to run the project in pycharm IDE
 
@@ -34,3 +35,11 @@ These packages can be downloaded easily in pycharm as : Settings => Project:your
 3) The main file is - currency_converter.py - run this in the pycharm IDE
 Press the run button to run the file or type python currency_converter.py in the pycharm command prompt
 4) The GUI will be displayed to enter the values
+
+## Pytest
+
+Make sure that pytest is installed and in the pycharm IDE :
+* Navigate to - Settings => Tools => Pycharm Integrated Tools => Default test runner => select pytest
+
+1) The files - files_test.py and dict_test.py are for pytest
+2) Run the files separately 
